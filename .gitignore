@@ -31,4 +31,3 @@ yarn-error.log*
 # Python files
 *.pyc
 __pycache__/
-octofit-tracker/frontend
